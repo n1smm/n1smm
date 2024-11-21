@@ -3,7 +3,7 @@
 ✨ A dedicated individual with experience in many different fields and a passion for
 coding. ✨
 </p>
-<p align="center">currently studying at `42 coding school` in Florence. Leveraging a background in performing
+<p align="center">currently studying at 42 coding school in Florence. Leveraging a background in performing
 arts and education, seeking to transition into a software development role where his creativity,
 adaptability and problem-solving skill could be utilized to contribute to new and exciting innovative
 projects.</p>
