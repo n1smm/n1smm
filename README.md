@@ -9,7 +9,7 @@ adaptability and problem-solving skill could be utilized to contribute to new an
 projects.</p>
 
 <p align="center">
-  <img src="H4E_0336-111.jpg"/>
+  <img src="H4E_0335-111.jpg"/>
 </p>
 
 <br />
