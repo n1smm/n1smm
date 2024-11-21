@@ -8,6 +8,10 @@ arts and education, seeking to transition into a software development role where
 adaptability and problem-solving skill could be utilized to contribute to new and exciting innovative
 projects.</p>
 
+<p align="center">
+  <img src="H4E_0336-111.jpg"/>
+</p>
+
 <br />
 <br />
 <p align="center">
