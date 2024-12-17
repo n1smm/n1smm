@@ -24,7 +24,7 @@ projects.</p>
 <div align="center">
 
 [![FDF Wireframe Graphics](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=fdf--wireframe_graphics&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7)](https://github.com/n1smm/fdf--wireframe_graphics)
-[![MiniRT](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=MiniRT-miniRaytracer&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7)](https://github.com/n1smm/MiniRT-miniRaytracer)
+[![MiniRT](https://github-readme-stats.vercel.app/api/pin/?username=n1&repo=MiniRT-miniRaytracer&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7)](https://github.com/n1smm/MiniRT-miniRaytracer)
 
 [![Simple Drum Machine](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=SimpleDrumMachine&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7)](https://github.com/n1smm/SimpleDrumMachine)
 [![SpectroCube](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=spectroCube&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7)](https://github.com/n1smm/spectroCube)
@@ -38,7 +38,7 @@ projects.</p>
 <br />
 
 - 🔭 I’m currently working on a basic raytracer in C
-- 🌱 I’m currently learning c, c++, javascript, arudino
+- 🌱 I’m currently learning c, c++, javascript, python, arudino
 - 📫 How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tjaž-juvan-234b862b9)
 &nbsp;
 - 😄 Pronouns: he/him
