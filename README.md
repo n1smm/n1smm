@@ -38,7 +38,7 @@ projects.</p>
 <br />
 
 - 🔭 I’m currently working on a basic raytracer in C
-- 🌱 I’m currently learning c, c++, javascript, python, arudino
+- 🌱 I’m currently learning and improving my knowlege of c, c++, javascript, python, arudino
 - 📫 How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tjaž-juvan-234b862b9)
 &nbsp;
 - 😄 Pronouns: he/him
