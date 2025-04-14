@@ -15,7 +15,7 @@ projects.</p>
 <br />
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&border_radius=6" alt="n1smm's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&border_radius=6&cache_bust=1&hide=Roff,Makefile,Perl" alt="n1smm's Top Languages"/>
 <p />
 <br />
 <br />
