@@ -19,6 +19,47 @@ projects.</p>
 <p />
 <br />
 <br />
+### Tech Stack
+<p align="center">
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /> &nbsp;
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> &nbsp;
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> &nbsp;
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> &nbsp;
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> &nbsp;
+  <!-- Lua -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua" /> &nbsp;
+  <!-- Solidity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity" /> &nbsp;
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> &nbsp;
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /> &nbsp;
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /> &nbsp;
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+</p>
+
+<!-- Creative Tools: Alternative Logos -->
+### Creative Tools
+<p align="center">
+  <!-- Bitwig Studio (sourced from Wikimedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Bitwig_Studio_logo.svg" width="40" alt="Bitwig Studio" /> &nbsp;
+  <!-- Krita -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Krita-logo.svg/512px-Krita-logo.svg.png" width="40" alt="Krita" /> &nbsp;
+  <!-- DaVinci Resolve -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DaVinci_Resolve_Logo.svg/512px-DaVinci_Resolve_Logo.svg.png" width="40" alt="DaVinci Resolve" /> &nbsp;
+  <!-- GIMP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GIMP_icon.svg/512px-GIMP_icon.svg.png" width="40" alt="GIMP" /> &nbsp;
+  <!-- TouchDesigner (if available, else you may need to host your own) -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/19/TouchDesigner_logo.png" width="40" alt="TouchDesigner" />
+</p>
+<br />
 
   ## My projects
 <div align="center">
