@@ -69,7 +69,7 @@ projects.</p>
 [![SpectroCube](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=spectroCube&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](https://github.com/n1smm/spectroCube)
 
 [![Mini Shell](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=mini_shell&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](https://github.com/n1smm/mini_shell)
-[![Inception](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=Dinning_phiosophers&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](git@github.com:n1smm/Inception-42.git)
+[![Inception](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=Inception_42&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](git@github.com:n1smm/Inception-42.git)
 
 
 </div>
