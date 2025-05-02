@@ -15,7 +15,7 @@ projects.</p>
 <br />
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&border_radius=6&cache_bust=1&hide=Roff,Makefile,Perl" alt="n1smm's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.2&count_weight=0.8&border_radius=6&cache_bust=1&hide=Roff,Makefile,Perl" alt="n1smm's Top Languages"/>
 <p />
 <br />
 <br />
@@ -69,7 +69,7 @@ projects.</p>
 [![SpectroCube](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=spectroCube&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](https://github.com/n1smm/spectroCube)
 
 [![Mini Shell](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=mini_shell&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](https://github.com/n1smm/mini_shell)
-[![Dining Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=Dinning_phiosophers&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](https://github.com/n1smm/Dinning_phiosophers)
+[![Inception](https://github-readme-stats.vercel.app/api/pin/?username=n1smm&repo=Dinning_phiosophers&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.3&count_weight=0.7&cache_bust=1)](git@github.com:n1smm/Inception-42.git)
 
 
 </div>
