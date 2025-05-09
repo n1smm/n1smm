@@ -15,11 +15,13 @@ projects.</p>
 <br />
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.2&count_weight=0.8&border_radius=6&cache_bust=1&hide=Roff,Makefile,Perl" alt="n1smm's Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1smm&layout=compact&theme=dark&bg_color=033B3D&border_color=7B6823&title_color=526126&text_color=7B6823&size_weight=0.2&count_weight=0.8&border_radius=6&cache_bust=1&hide=Roff,Makefile,Perl,html,css" alt="n1smm's Top Languages"/>
 <p />
 <br />
 <br />
+  
 ### Tech Stack
+
 <p align="center">
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /> &nbsp;
